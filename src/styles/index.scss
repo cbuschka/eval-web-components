@@ -4,6 +4,9 @@ html, body {
     font-size: 100%;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    font-weight: lighter;
+}
+
+body > * {
+    padding: 4em;
 }
 
